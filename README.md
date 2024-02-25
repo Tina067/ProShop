@@ -1,7 +1,7 @@
 # ProShop
 # Project Name
 
-Short description or tagline of your project.
+This is a e-commerce web application
 
 ![Project Screenshot](screenshot.png)
 
@@ -16,7 +16,14 @@ Short description or tagline of your project.
 
 ## About
 
-Brief description of your project, its purpose, and key features.
+ Developed an e-commerce website using the MERN stack, seamlessly
+integrating front-end and back-end functionalities to deliver a smooth
+and responsive user experience
+• Implemented essential e-commerce features, including user registration/authentication, product listings and filters, shopping cart, secure
+payment and and customer satisfaction.
+• Developed an admin dashboard that lets you create, update, delete
+products, and track orders.
+
 
 ## Demo
 
